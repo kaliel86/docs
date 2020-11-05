@@ -12,10 +12,11 @@ Exigences
 
 - Un serveur HTTP. Par exemple: Apache. mod\_rewrite est préférable, mais en
   aucun cas nécessaire.
-- PHP |minphpversion| ou plus (y compris PHP 7.3)
+- PHP |minphpversion| ou plus (y compris PHP 7.4)
 - L'extension PHP mbstring
 - L'extension PHP intl
 - L'extension PHP simplexml
+- L'extension PHP PDO
 
 .. note::
 
